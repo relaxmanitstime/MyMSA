@@ -31,7 +31,7 @@ spec:
     spec:
       containers:
       - image: maclier/mynginx:0.1
-        imagePullPolicy: IfNotPresent
+        imagePullPolicy: Always
         name: mynginx
         resources: {}
         terminationMessagePath: /dev/termination-log

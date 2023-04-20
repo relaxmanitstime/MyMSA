@@ -5,7 +5,7 @@ metadata:
   labels:
     app: n1
   name: n1
-  namespace: n1
+  namespace: default
   resourceVersion: "133653"
   uid: 5baf9bf3-5ce1-4dbb-bb03-4beec4972e61
 spec:

@@ -30,7 +30,7 @@ spec:
         app: n1
     spec:
       containers:
-      - image: nowage/mynginx:0.1
+      - image: maclier/mynginx:0.1
         imagePullPolicy: IfNotPresent
         name: mynginx
         resources: {}
